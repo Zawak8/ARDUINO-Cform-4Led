@@ -1,4 +1,4 @@
-# Arduino_LedTest1
+# Arduino_C#_4_Led
 
 <h1>Simple C# forms app</h1>
 <p>Contains 4 buttons for every led color. When pushed the led turns on</p>
